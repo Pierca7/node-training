@@ -1,0 +1,16 @@
+{
+  "name": "node-training",
+  "version": "1.0.0",
+  "description": "NodeJS Training repository",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "q-io": "^1.13.6",
+    "request": "^2.88.0",
+    "request-promise-native": "^1.0.5"
+  },
+  "author": "Pierca",
+  "license": "ISC"
+}
